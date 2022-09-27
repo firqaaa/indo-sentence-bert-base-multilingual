@@ -1,2 +1,2 @@
 # indo-sbert-base-multilingual
-Indonesian sentence transformers for multilingual. Multilingual here refer to Indonesian indic languages like java, sundanese, balinese, etc.
+Sentence Transformers for Bahasa Indonesia. Multilingual here refers to all possible Indonesian local languages (ex : Javanese, Sundanese, Balinese) etc.
