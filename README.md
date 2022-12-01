@@ -11,7 +11,7 @@ tags:
 # indo-sentence-bert-base-multilingual
 
 This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 768 dimensional dense vector space and can be used for tasks like clustering or semantic search.
-This model covers **7** indonesian local languages comparison, including **javanese**, **sundanese**, **balinese**, **banjarnese**, **minangkabau**, **sundanese**, and **melayu**
+This model covers **7** indonesian local languages comparison, including **javanese**, **sundanese**, **balinese**, **banjarnese**, **minangkabau**, , and **melayu**
 <!--- Describe your model here -->
 
 ## Usage (Sentence-Transformers)
